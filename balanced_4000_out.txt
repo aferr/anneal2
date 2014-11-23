@@ -1,0 +1,1889 @@
+t_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3845
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>0, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+9324
+e = 1.0399761904761904
+e_prime = 1.103792195256481
+P=0.2156553608461844
+ACCEPT
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3846
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>27, :l3memre
+13986
+e = 1.0399761904761904
+e_prime = 1.1031049008191867
+P=0.21924798941883308
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3847
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>4, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+9324
+e = 1.0399761904761904
+e_prime = 1.1705770362198935
+P=0.04330378291053478
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3848
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+9324
+e = 1.0399761904761904
+e_prime = 1.1029827633756206
+P=0.21989266136437285
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3849
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>23, :l3memresp_tl=>28, :l3memre
+9324
+e = 1.0399761904761904
+e_prime = 1.1038323374394805
+P=0.2154473584531337
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3850
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+9324
+e = 1.0399761904761904
+e_prime = 1.1031116167187598
+P=0.21921259609349006
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3851
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>2, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+9324
+e = 1.0399761904761904
+e_prime = 1.1519946681375253
+P=0.06769022371186248
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3852
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>23, :l3memresp_tl=>28, :l3memre
+9324
+e = 1.0399761904761904
+e_prime = 1.1038323374394805
+P=0.2154473584531337
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3853
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>23, :l3memresp_tl=>28, :l3memre
+9324
+e = 1.0399761904761904
+e_prime = 1.1038323374394805
+P=0.2154473584531337
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3854
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>1, :l2l3req_o=>9, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+9324
+e = 1.0399761904761904
+e_prime = 1.12782666850524
+P=0.12101525279267203
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3855
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>4, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+9324
+e = 1.0399761904761904
+e_prime = 1.1371571903536188
+P=0.09670064458028202
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3856
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+17892
+e = 1.0399761904761904
+e_prime = 1.1026820606176744
+P=0.22148793568558336
+ACCEPT
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3857
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+17892
+e = 1.0399761904761904
+e_prime = 1.102554789051771
+P=0.22216661185936093
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3858
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+1260
+e = 1.0399761904761904
+e_prime = 1.1088231292517008
+P=0.191089690139291
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3859
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>2, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+17892
+e = 1.0399761904761904
+e_prime = 1.1180319975408004
+P=0.15314279786287704
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3860
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>4, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+17892
+e = 1.0399761904761904
+e_prime = 1.1363855673724887
+P=0.09851108916752298
+ACCEPT
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3861
+================================================================================
+foo
+{:l2l3req_tl=>4, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>4, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+4284
+e = 1.0399761904761904
+e_prime = 1.135767907162865
+P=0.09998468890751445
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3862
+================================================================================
+foo
+{:l2l3req_tl=>4, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>4, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+17892
+e = 1.0399761904761904
+e_prime = 1.1367810154578262
+P=0.09757906193014745
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3863
+================================================================================
+foo
+{:l2l3req_tl=>4, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>4, :l2l3req_o=>8, :l2l3resp_tl=>2, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+17892
+e = 1.0399761904761904
+e_prime = 1.1564407037462872
+P=0.060828806058847655
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3864
+================================================================================
+foo
+{:l2l3req_tl=>4, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>4, :l2l3req_o=>8, :l2l3resp_tl=>6, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+17892
+e = 1.0399761904761904
+e_prime = 1.180964461371403
+P=0.03373502312907266
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3865
+================================================================================
+foo
+{:l2l3req_tl=>4, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>4, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+17892
+e = 1.0399761904761904
+e_prime = 1.1367810154578262
+P=0.09757906193014745
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3866
+================================================================================
+foo
+{:l2l3req_tl=>4, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>4, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>23, :l3memresp_tl=>28, :l3memre
+17892
+e = 1.0399761904761904
+e_prime = 1.1369217407620325
+P=0.09724951970693237
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3867
+================================================================================
+foo
+{:l2l3req_tl=>4, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>4, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>23, :l3memresp_tl=>28, :l3memre
+17892
+e = 1.0399761904761904
+e_prime = 1.1369217407620325
+P=0.09724951970693237
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3868
+================================================================================
+foo
+{:l2l3req_tl=>4, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>4, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>3, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+17892
+e = 1.0399761904761904
+e_prime = 1.1488231731659801
+P=0.07305271974380118
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3869
+================================================================================
+foo
+{:l2l3req_tl=>4, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>4, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+4284
+e = 1.0399761904761904
+e_prime = 1.135767907162865
+P=0.09998468890751445
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3870
+================================================================================
+foo
+{:l2l3req_tl=>4, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>6, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+17892
+e = 1.0399761904761904
+e_prime = 1.161105522021015
+P=0.05437616088012037
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3871
+================================================================================
+foo
+{:l2l3req_tl=>4, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>4, :l2l3req_o=>8, :l2l3resp_tl=>1, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+17892
+e = 1.0399761904761904
+e_prime = 1.1516015058605602
+P=0.06833301255277377
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3872
+================================================================================
+foo
+{:l2l3req_tl=>4, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>4, :l2l3req_o=>6, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+17892
+e = 1.0399761904761904
+e_prime = 1.1364070454472868
+P=0.09846023986824505
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3873
+================================================================================
+foo
+{:l2l3req_tl=>4, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>4, :l2l3req_o=>9, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+17892
+e = 1.0399761904761904
+e_prime = 1.1487349453866056
+P=0.07320782230908594
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3874
+================================================================================
+foo
+{:l2l3req_tl=>4, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>4, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>23, :l3memresp_tl=>28, :l3memre
+17892
+e = 1.0399761904761904
+e_prime = 1.1369217407620325
+P=0.09724951970693237
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3875
+================================================================================
+foo
+{:l2l3req_tl=>4, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>4, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>28, :l3memresp_tl=>28, :l3memre
+17892
+e = 1.0399761904761904
+e_prime = 1.1363805571524384
+P=0.09852295463046211
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3876
+================================================================================
+foo
+{:l2l3req_tl=>4, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>4, :l2l3req_o=>9, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+17892
+e = 1.0399761904761904
+e_prime = 1.1487349453866056
+P=0.07320782230908594
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3877
+================================================================================
+foo
+{:l2l3req_tl=>4, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>4, :l2l3req_o=>8, :l2l3resp_tl=>6, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+17892
+e = 1.0399761904761904
+e_prime = 1.180964461371403
+P=0.03373502312907266
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3878
+================================================================================
+foo
+{:l2l3req_tl=>4, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>4, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+17892
+e = 1.0399761904761904
+e_prime = 1.1367810154578262
+P=0.09757906193014745
+ACCEPT
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3879
+================================================================================
+foo
+{:l2l3req_tl=>4, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>4, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>29, :l3memresp_tl=>28, :l3memre
+17892
+e = 1.0399761904761904
+e_prime = 1.1365981723675385
+P=0.09800890170011525
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3880
+================================================================================
+foo
+{:l2l3req_tl=>4, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>4, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>24, :l3memresp_tl=>28, :l3memre
+17892
+e = 1.0399761904761904
+e_prime = 1.1367831313276484
+P=0.09757409885157767
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3881
+================================================================================
+foo
+{:l2l3req_tl=>4, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>4, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+17892
+e = 1.0399761904761904
+e_prime = 1.1367827919900353
+P=0.09757489480001277
+ACCEPT
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3882
+================================================================================
+foo
+{:l2l3req_tl=>4, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+{:l2l3req_tl=>4, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>3, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+17892
+e = 1.0399761904761904
+e_prime = 1.148771853342276
+P=0.07314289888072847
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3883
+================================================================================
+foo
+{:l2l3req_tl=>4, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+{:l2l3req_tl=>4, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>29, :l3memresp_tl=>28, :l3memr
+17892
+e = 1.0399761904761904
+e_prime = 1.1365784708249496
+P=0.09805533025996227
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3884
+================================================================================
+foo
+{:l2l3req_tl=>4, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+{:l2l3req_tl=>4, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+17892
+e = 1.0399761904761904
+e_prime = 1.1363879028137076
+P=0.0985055587428312
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3885
+================================================================================
+foo
+{:l2l3req_tl=>4, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+{:l2l3req_tl=>4, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>24, :l3memresp_tl=>28, :l3memr
+17892
+e = 1.0399761904761904
+e_prime = 1.136778180990706
+P=0.0975857109781818
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3886
+================================================================================
+foo
+{:l2l3req_tl=>4, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+{:l2l3req_tl=>4, :l2l3req_o=>10, :l2l3resp_tl=>6, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+17892
+e = 1.0399761904761904
+e_prime = 1.1689674555268117
+P=0.04501216226181011
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3887
+================================================================================
+foo
+{:l2l3req_tl=>4, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+{:l2l3req_tl=>4, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>0, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+17892
+e = 1.0399761904761904
+e_prime = 1.136750774488199
+P=0.09765002409080496
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3888
+================================================================================
+foo
+{:l2l3req_tl=>4, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+{:l2l3req_tl=>4, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+17892
+e = 1.0399761904761904
+e_prime = 1.1373604643735427
+P=0.09622926887242898
+ACCEPT
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3889
+================================================================================
+foo
+{:l2l3req_tl=>4, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+{:l2l3req_tl=>1, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+17892
+e = 1.0399761904761904
+e_prime = 1.1038174443486315
+P=0.21552450568876583
+ACCEPT
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3890
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+{:l2l3req_tl=>1, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+17892
+e = 1.0399761904761904
+e_prime = 1.1032233639934848
+P=0.21862451682821082
+ACCEPT
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3891
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+{:l2l3req_tl=>1, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+17892
+e = 1.0399761904761904
+e_prime = 1.1032266376033983
+P=0.21860731299141864
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3892
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+{:l2l3req_tl=>1, :l2l3req_o=>10, :l2l3resp_tl=>4, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+17892
+e = 1.0399761904761904
+e_prime = 1.1696070550285842
+P=0.044325378260294125
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3893
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+{:l2l3req_tl=>1, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+504
+e = 1.0399761904761904
+e_prime = 1.0995632086167801
+P=0.23873215709303347
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3894
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+{:l2l3req_tl=>1, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+17892
+e = 1.0399761904761904
+e_prime = 1.1038340519306316
+P=0.21543847904365587
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3895
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+{:l2l3req_tl=>3, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+17892
+e = 1.0399761904761904
+e_prime = 1.0973297363546357
+P=0.2519001321892839
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3896
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+{:l2l3req_tl=>1, :l2l3req_o=>10, :l2l3resp_tl=>4, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+17892
+e = 1.0399761904761904
+e_prime = 1.1696070550285842
+P=0.044325378260294125
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3897
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+{:l2l3req_tl=>3, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+17892
+e = 1.0399761904761904
+e_prime = 1.0973297363546357
+P=0.2519001321892839
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3898
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>2, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+{:l2l3req_tl=>1, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>4, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+17892
+e = 1.0399761904761904
+e_prime = 1.10323761617323
+P=0.21854962707983158
+ACCEPT
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3899
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>4, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+{:l2l3req_tl=>1, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>4, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+17892
+e = 1.0399761904761904
+e_prime = 1.10323761617323
+P=0.21854962707983158
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3900
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>4, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+{:l2l3req_tl=>1, :l2l3req_o=>9, :l2l3resp_tl=>3, :l2l3resp_o=>4, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+17892
+e = 1.0399761904761904
+e_prime = 1.1272658810002874
+P=0.12265767820153
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3901
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>4, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+{:l2l3req_tl=>2, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>4, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+17892
+e = 1.0399761904761904
+e_prime = 1.118419541055859
+P=0.15172271968152365
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3902
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>4, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+{:l2l3req_tl=>1, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>6, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+17892
+e = 1.0399761904761904
+e_prime = 1.1032276755772732
+P=0.21860185839902174
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3903
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>4, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>4, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+17892
+e = 1.0399761904761904
+e_prime = 1.10323761617323
+P=0.21854962707983158
+ACCEPT
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3904
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>4, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>4, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+17892
+e = 1.0399761904761904
+e_prime = 1.1026648142825206
+P=0.22157978026680616
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3905
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>4, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>6, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+17892
+e = 1.0399761904761904
+e_prime = 1.1032276755772732
+P=0.21860185839902174
+ACCEPT
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3906
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>6, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>1, :l2l3resp_o=>6, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+17892
+e = 1.0399761904761904
+e_prime = 1.1155866947718054
+P=0.16241478558164216
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3907
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>6, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>6, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+17892
+e = 1.0399761904761904
+e_prime = 1.1026598240235062
+P=0.22160636277012422
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3908
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>6, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>6, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+504
+e = 1.0399761904761904
+e_prime = 1.099748866213152
+P=0.23766906353943776
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3909
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>6, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>6, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+17892
+e = 1.0399761904761904
+e_prime = 1.1026598240235062
+P=0.22160636277012422
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3910
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>6, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>6, :l3memreq_tl=>63, :l3memreq_o=>29, :l3memresp_tl=>28, :l3memre
+17892
+e = 1.0399761904761904
+e_prime = 1.1032184136565426
+P=0.21865053495800074
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3911
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>6, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>6, :l3memreq_tl=>63, :l3memreq_o=>28, :l3memresp_tl=>28, :l3memre
+17892
+e = 1.0399761904761904
+e_prime = 1.1032184136565426
+P=0.21865053495800074
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3912
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>6, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>6, :l3memreq_tl=>63, :l3memreq_o=>28, :l3memresp_tl=>28, :l3memre
+17892
+e = 1.0399761904761904
+e_prime = 1.1032184136565426
+P=0.21865053495800074
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3913
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>6, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>6, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+5796
+e = 1.0399761904761904
+e_prime = 1.1033092033915017
+P=0.21817385151451926
+ACCEPT
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3914
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>6, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>6, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+5796
+e = 1.0399761904761904
+e_prime = 1.10397752144336
+P=0.2146967405577277
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3915
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>6, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>6, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+4284
+e = 1.0399761904761904
+e_prime = 1.1021763372015474
+P=0.22419701864013977
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3916
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>6, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>9, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+5796
+e = 1.0399761904761904
+e_prime = 1.1267567287784679
+P=0.12416817386590251
+ACCEPT
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3917
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>9, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>9, :l3memreq_tl=>63, :l3memreq_o=>27, :l3memresp_tl=>28, :l3memre
+5796
+e = 1.0399761904761904
+e_prime = 1.1267725032041802
+P=0.12412109802099998
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3918
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>9, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>9, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+5796
+e = 1.0399761904761904
+e_prime = 1.1265803756285122
+P=0.12469568425462263
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3919
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>9, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>2, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>9, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+5796
+e = 1.0399761904761904
+e_prime = 1.129950581681948
+P=0.11499168480419966
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3920
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>9, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>9, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+5796
+e = 1.0399761904761904
+e_prime = 1.126789017056098
+P=0.12407183461814121
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3921
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>9, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>9, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+5796
+e = 1.0399761904761904
+e_prime = 1.126789017056098
+P=0.12407183461814121
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3922
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>9, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>1, :l2l3req_o=>7, :l2l3resp_tl=>3, :l2l3resp_o=>9, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+5796
+e = 1.0399761904761904
+e_prime = 1.1028107068914523
+P=0.22080403578929453
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3923
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>9, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>9, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+5796
+e = 1.0399761904761904
+e_prime = 1.1266766242728976
+P=0.12440750657861543
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3924
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>9, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>9, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+5796
+e = 1.0399761904761904
+e_prime = 1.1269423247559893
+P=0.12361542607726207
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3925
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>9, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>9, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+5796
+e = 1.0399761904761904
+e_prime = 1.1266766242728976
+P=0.12440750657861543
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3926
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>9, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>6, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+5796
+e = 1.0399761904761904
+e_prime = 1.1033092033915017
+P=0.21817385151451926
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3927
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>9, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>9, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+5796
+e = 1.0399761904761904
+e_prime = 1.1269153356994972
+P=0.12369565258268687
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3928
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>9, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>9, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+4284
+e = 1.0399761904761904
+e_prime = 1.126109310390823
+P=0.12611575628872998
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3929
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>9, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>11, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+5796
+e = 1.0399761904761904
+e_prime = 1.127315734989648
+P=0.12251076830382396
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3930
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>9, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memre
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+5796
+e = 1.0399761904761904
+e_prime = 1.1033092033915017
+P=0.21817385151451926
+ACCEPT
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3931
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>27, :l3memresp_tl=>28, :l3memr
+5796
+e = 1.0399761904761904
+e_prime = 1.1033131469979298
+P=0.21815316952608302
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3932
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+{:l2l3req_tl=>1, :l2l3req_o=>11, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3mem
+5796
+e = 1.0399761904761904
+e_prime = 1.1273527062999114
+P=0.12240193476730214
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3933
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+5796
+e = 1.0399761904761904
+e_prime = 1.101574139800848
+P=0.2274661516239991
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3934
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+{:l2l3req_tl=>1, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3mem
+5796
+e = 1.0399761904761904
+e_prime = 1.1033092033915017
+P=0.21817385151451926
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3935
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>60, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+9660
+e = 1.0399761904761904
+e_prime = 1.1032035640343094
+P=0.21872860062583296
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3936
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+{:l2l3req_tl=>1, :l2l3req_o=>6, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+5796
+e = 1.0399761904761904
+e_prime = 1.1033092033915017
+P=0.21817385151451926
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3937
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>4, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+5796
+e = 1.0399761904761904
+e_prime = 1.1694321946169772
+P=0.04451209087073288
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3938
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>13, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+5796
+e = 1.0399761904761904
+e_prime = 1.1272639751552795
+P=0.12266329784650008
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3939
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+5796
+e = 1.0399761904761904
+e_prime = 1.101574139800848
+P=0.2274661516239991
+ACCEPT
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3940
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>29, :l3memresp_tl=>28, :l3memr
+5796
+e = 1.0399761904761904
+e_prime = 1.1029857044266984
+P=0.2198771155111653
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3941
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>23, :l3memresp_tl=>28, :l3memr
+5796
+e = 1.0399761904761904
+e_prime = 1.1029585921325054
+P=0.22002046773858788
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3942
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+5796
+e = 1.0399761904761904
+e_prime = 1.1014578034112197
+P=0.22810317650017317
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3943
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+5796
+e = 1.0399761904761904
+e_prime = 1.1015297742285322
+P=0.22770887471249548
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3944
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+{:l2l3req_tl=>1, :l2l3req_o=>5, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+5796
+e = 1.0399761904761904
+e_prime = 1.1262767179335502
+P=0.12560924700805773
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3945
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+5796
+e = 1.0399761904761904
+e_prime = 1.1033092033915017
+P=0.21817385151451926
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3946
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+4284
+e = 1.0399761904761904
+e_prime = 1.1045127717753769
+P=0.21195195768514025
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3947
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+5796
+e = 1.0399761904761904
+e_prime = 1.101420339150153
+P=0.22830869962514921
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3948
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+5796
+e = 1.0399761904761904
+e_prime = 1.1014578034112197
+P=0.22810317650017317
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3949
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+5796
+e = 1.0399761904761904
+e_prime = 1.1025664497683132
+P=0.22210434459660222
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3950
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+16884
+e = 1.0399761904761904
+e_prime = 1.1025566385758285
+P=0.22215673438902106
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3951
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3memr
+{:l2l3req_tl=>1, :l2l3req_o=>11, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3mem
+5796
+e = 1.0399761904761904
+e_prime = 1.1262767179335502
+P=0.12560924700805773
+ACCEPT
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3952
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>11, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3mem
+{:l2l3req_tl=>1, :l2l3req_o=>11, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3mem
+2772
+e = 1.0399761904761904
+e_prime = 1.1271718717790147
+P=0.12293518436158765
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3953
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>11, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3mem
+{:l2l3req_tl=>3, :l2l3req_o=>11, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3mem
+5796
+e = 1.0399761904761904
+e_prime = 1.1506749605639357
+P=0.06987208613555208
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3954
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>11, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3mem
+{:l2l3req_tl=>1, :l2l3req_o=>11, :l2l3resp_tl=>1, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3mem
+5796
+e = 1.0399761904761904
+e_prime = 1.1508600019718032
+P=0.06956197048296822
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3955
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>11, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3mem
+{:l2l3req_tl=>1, :l2l3req_o=>11, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3mem
+16884
+e = 1.0399761904761904
+e_prime = 1.127266651436694
+P=0.12265540653736544
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3956
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>11, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3mem
+{:l2l3req_tl=>1, :l2l3req_o=>11, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3mem
+5796
+e = 1.0399761904761904
+e_prime = 1.1262306270334221
+P=0.12574849663198465
+ACCEPT
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3957
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>11, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3mem
+{:l2l3req_tl=>1, :l2l3req_o=>12, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3mem
+5796
+e = 1.0399761904761904
+e_prime = 1.1015284186138223
+P=0.22771629532781018
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3958
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>11, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3mem
+{:l2l3req_tl=>1, :l2l3req_o=>11, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3mem
+5796
+e = 1.0399761904761904
+e_prime = 1.1261867544119097
+P=0.12588118780540308
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3959
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>11, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3mem
+{:l2l3req_tl=>1, :l2l3req_o=>11, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>24, :l3memresp_tl=>28, :l3mem
+5796
+e = 1.0399761904761904
+e_prime = 1.1268975894705708
+P=0.12374843262895448
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3960
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>11, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3mem
+{:l2l3req_tl=>1, :l2l3req_o=>11, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3mem
+5796
+e = 1.0399761904761904
+e_prime = 1.1276702898550726
+P=0.12147102804230372
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3961
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>11, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3mem
+{:l2l3req_tl=>1, :l2l3req_o=>11, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>28, :l3memresp_tl=>28, :l3mem
+5796
+e = 1.0399761904761904
+e_prime = 1.127637508626639
+P=0.1215667883808435
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3962
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>11, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3mem
+{:l2l3req_tl=>1, :l2l3req_o=>11, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>29, :l3memresp_tl=>28, :l3mem
+5796
+e = 1.0399761904761904
+e_prime = 1.1268917972986296
+P=0.1237656643239951
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3963
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>11, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3mem
+{:l2l3req_tl=>1, :l2l3req_o=>13, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3mem
+5796
+e = 1.0399761904761904
+e_prime = 1.1262306270334221
+P=0.12574849663198465
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3964
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>11, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3mem
+{:l2l3req_tl=>1, :l2l3req_o=>11, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>23, :l3memresp_tl=>28, :l3mem
+5796
+e = 1.0399761904761904
+e_prime = 1.1268818150448585
+P=0.12379536713174454
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3965
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>11, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3mem
+{:l2l3req_tl=>1, :l2l3req_o=>11, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3mem
+5796
+e = 1.0399761904761904
+e_prime = 1.127428251010549
+P=0.12217985209599787
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3966
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>11, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3mem
+{:l2l3req_tl=>1, :l2l3req_o=>11, :l2l3resp_tl=>3, :l2l3resp_o=>15, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3mem
+5796
+e = 1.0399761904761904
+e_prime = 1.103258552696441
+P=0.21843966018532
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3967
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>11, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3mem
+{:l2l3req_tl=>1, :l2l3req_o=>11, :l2l3resp_tl=>3, :l2l3resp_o=>15, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3mem
+5796
+e = 1.0399761904761904
+e_prime = 1.103258552696441
+P=0.21843966018532
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3968
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>11, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>28, :l3mem
+{:l2l3req_tl=>1, :l2l3req_o=>11, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>30, :l3mem
+14490
+e = 1.0399761904761904
+e_prime = 1.1258181504485851
+P=0.12700156169824234
+ACCEPT
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3969
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>11, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>30, :l3mem
+{:l2l3req_tl=>1, :l2l3req_o=>11, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>27, :l3mem
+4347
+e = 1.0399761904761904
+e_prime = 1.124328288803444
+P=0.1316325310813346
+ACCEPT
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3970
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>11, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>27, :l3mem
+{:l2l3req_tl=>1, :l2l3req_o=>12, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>27, :l3mem
+4347
+e = 1.0399761904761904
+e_prime = 1.099641936968024
+P=0.2382807713964589
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3971
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>11, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>27, :l3mem
+{:l2l3req_tl=>1, :l2l3req_o=>11, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>27, :l3mem
+13419
+e = 1.0399761904761904
+e_prime = 1.1262154780535063
+P=0.1257942983621362
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3972
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>11, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>27, :l3mem
+{:l2l3req_tl=>4, :l2l3req_o=>11, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>27, :l3mem
+17388
+e = 1.0399761904761904
+e_prime = 1.1456924151303034
+P=0.07876287043026099
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3973
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>11, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>27, :l3mem
+{:l2l3req_tl=>1, :l2l3req_o=>11, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>25, :l3memresp_tl=>27, :l3mem
+4347
+e = 1.0399761904761904
+e_prime = 1.12432303066154
+P=0.1316491705553773
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3974
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>11, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>27, :l3mem
+{:l2l3req_tl=>1, :l2l3req_o=>11, :l2l3resp_tl=>3, :l2l3resp_o=>14, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>27, :l3mem
+4347
+e = 1.0399761904761904
+e_prime = 1.1255869565217391
+P=0.1277093599530418
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3975
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>11, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>27, :l3mem
+{:l2l3req_tl=>1, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>27, :l3mem
+4347
+e = 1.0399761904761904
+e_prime = 1.099641936968024
+P=0.2382807713964589
+ACCEPT
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3976
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>27, :l3mem
+{:l2l3req_tl=>3, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>27, :l3mem
+4347
+e = 1.0399761904761904
+e_prime = 1.159645223306714
+P=0.05631888853549544
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3977
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>27, :l3mem
+{:l2l3req_tl=>1, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>15, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>27, :l3mem
+4347
+e = 1.0399761904761904
+e_prime = 1.1252839560945151
+P=0.12864296933024522
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3978
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>27, :l3mem
+{:l2l3req_tl=>1, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>27, :l3mem
+4347
+e = 1.0399761904761904
+e_prime = 1.1020376778730818
+P=0.2249455664451572
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3979
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>27, :l3mem
+{:l2l3req_tl=>1, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>11, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>27, :l3mem
+4347
+e = 1.0399761904761904
+e_prime = 1.1254472871274113
+P=0.1281388665801893
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3980
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>26, :l3memresp_tl=>27, :l3mem
+{:l2l3req_tl=>1, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>24, :l3memresp_tl=>27, :l3mem
+4347
+e = 1.0399761904761904
+e_prime = 1.1003087350882383
+P=0.23449177723447814
+ACCEPT
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3981
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>24, :l3memresp_tl=>27, :l3mem
+{:l2l3req_tl=>1, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>24, :l3memresp_tl=>27, :l3mem
+4347
+e = 1.0399761904761904
+e_prime = 1.1027094055013311
+P=0.22134238976583046
+ACCEPT
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3982
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>24, :l3memresp_tl=>27, :l3mem
+{:l2l3req_tl=>1, :l2l3req_o=>12, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>24, :l3memresp_tl=>27, :l3mem
+4347
+e = 1.0399761904761904
+e_prime = 1.1027094055013311
+P=0.22134238976583046
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3983
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>24, :l3memresp_tl=>27, :l3mem
+{:l2l3req_tl=>1, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>13, :l3memreq_tl=>63, :l3memreq_o=>24, :l3memresp_tl=>27, :l3mem
+4347
+e = 1.0399761904761904
+e_prime = 1.127239327615104
+P=0.12273599769379365
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3984
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>24, :l3memresp_tl=>27, :l3mem
+{:l2l3req_tl=>1, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>24, :l3memresp_tl=>24, :l3mem
+11592
+e = 1.0399761904761904
+e_prime = 1.1007270038450163
+P=0.2321458306451051
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3985
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>10, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>24, :l3memresp_tl=>27, :l3mem
+{:l2l3req_tl=>1, :l2l3req_o=>13, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>24, :l3memresp_tl=>27, :l3mem
+4347
+e = 1.0399761904761904
+e_prime = 1.1274153110519571
+P=0.12221786373903278
+ACCEPT
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3986
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>13, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>24, :l3memresp_tl=>27, :l3mem
+{:l2l3req_tl=>1, :l2l3req_o=>13, :l2l3resp_tl=>1, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>24, :l3memresp_tl=>27, :l3mem
+4347
+e = 1.0399761904761904
+e_prime = 1.1518768773209767
+P=0.06788216526633759
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3987
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>13, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>24, :l3memresp_tl=>27, :l3mem
+{:l2l3req_tl=>1, :l2l3req_o=>13, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>24, :l3memresp_tl=>27, :l3mem
+4347
+e = 1.0399761904761904
+e_prime = 1.1266426928259226
+P=0.12450902449898389
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3988
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>13, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>24, :l3memresp_tl=>27, :l3mem
+{:l2l3req_tl=>1, :l2l3req_o=>13, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>24, :l3memresp_tl=>24, :l3mem
+11592
+e = 1.0399761904761904
+e_prime = 1.1254287193138124
+P=0.12819607437214464
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3989
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>13, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>24, :l3memresp_tl=>27, :l3mem
+{:l2l3req_tl=>1, :l2l3req_o=>13, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>21, :l3memresp_tl=>27, :l3mem
+4347
+e = 1.0399761904761904
+e_prime = 1.128139784416182
+P=0.12010779085151149
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3990
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>13, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>24, :l3memresp_tl=>27, :l3mem
+{:l2l3req_tl=>1, :l2l3req_o=>13, :l2l3resp_tl=>2, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>24, :l3memresp_tl=>27, :l3mem
+8694
+e = 1.0399761904761904
+e_prime = 1.134348138289132
+P=0.10345605199938834
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3991
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>13, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>24, :l3memresp_tl=>27, :l3mem
+{:l2l3req_tl=>1, :l2l3req_o=>13, :l2l3resp_tl=>3, :l2l3resp_o=>11, :l3memreq_tl=>63, :l3memreq_o=>24, :l3memresp_tl=>27, :l3mem
+4347
+e = 1.0399761904761904
+e_prime = 1.1036322094055013
+P=0.21648634710225081
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3992
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>13, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>24, :l3memresp_tl=>27, :l3mem
+{:l2l3req_tl=>1, :l2l3req_o=>13, :l2l3resp_tl=>3, :l2l3resp_o=>14, :l3memreq_tl=>63, :l3memreq_o=>24, :l3memresp_tl=>27, :l3mem
+4347
+e = 1.0399761904761904
+e_prime = 1.1281821781852837
+P=0.11998545083229879
+ACCEPT
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3993
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>13, :l2l3resp_tl=>3, :l2l3resp_o=>14, :l3memreq_tl=>63, :l3memreq_o=>24, :l3memresp_tl=>27, :l3mem
+{:l2l3req_tl=>1, :l2l3req_o=>13, :l2l3resp_tl=>3, :l2l3resp_o=>14, :l3memreq_tl=>63, :l3memreq_o=>24, :l3memresp_tl=>27, :l3mem
+4347
+e = 1.0399761904761904
+e_prime = 1.127664744158533
+P=0.12148722279682397
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3994
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>13, :l2l3resp_tl=>3, :l2l3resp_o=>14, :l3memreq_tl=>63, :l3memreq_o=>24, :l3memresp_tl=>27, :l3mem
+{:l2l3req_tl=>1, :l2l3req_o=>13, :l2l3resp_tl=>3, :l2l3resp_o=>14, :l3memreq_tl=>63, :l3memreq_o=>24, :l3memresp_tl=>27, :l3mem
+4347
+e = 1.0399761904761904
+e_prime = 1.126242581090407
+P=0.12571236626799848
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3995
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>13, :l2l3resp_tl=>3, :l2l3resp_o=>14, :l3memreq_tl=>63, :l3memreq_o=>24, :l3memresp_tl=>27, :l3mem
+{:l2l3req_tl=>2, :l2l3req_o=>13, :l2l3resp_tl=>3, :l2l3resp_o=>14, :l3memreq_tl=>63, :l3memreq_o=>24, :l3memresp_tl=>27, :l3mem
+8694
+e = 1.0399761904761904
+e_prime = 1.1311842732261985
+P=0.11163148055636807
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3996
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>13, :l2l3resp_tl=>3, :l2l3resp_o=>14, :l3memreq_tl=>63, :l3memreq_o=>24, :l3memresp_tl=>27, :l3mem
+{:l2l3req_tl=>1, :l2l3req_o=>13, :l2l3resp_tl=>3, :l2l3resp_o=>14, :l3memreq_tl=>63, :l3memreq_o=>24, :l3memresp_tl=>27, :l3mem
+4347
+e = 1.0399761904761904
+e_prime = 1.127664744158533
+P=0.12148722279682397
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3997
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>13, :l2l3resp_tl=>3, :l2l3resp_o=>14, :l3memreq_tl=>63, :l3memreq_o=>24, :l3memresp_tl=>27, :l3mem
+{:l2l3req_tl=>1, :l2l3req_o=>13, :l2l3resp_tl=>3, :l2l3resp_o=>14, :l3memreq_tl=>63, :l3memreq_o=>24, :l3memresp_tl=>27, :l3mem
+4347
+e = 1.0399761904761904
+e_prime = 1.126283331690164
+P=0.12558927821070406
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3998
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>13, :l2l3resp_tl=>3, :l2l3resp_o=>14, :l3memreq_tl=>63, :l3memreq_o=>24, :l3memresp_tl=>27, :l3mem
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>3, :l2l3resp_o=>14, :l3memreq_tl=>63, :l3memreq_o=>24, :l3memresp_tl=>27, :l3mem
+4347
+e = 1.0399761904761904
+e_prime = 1.1034762726346579
+P=0.21729938334595217
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+================================================================================
+                                      3999
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>13, :l2l3resp_tl=>3, :l2l3resp_o=>14, :l3memreq_tl=>63, :l3memreq_o=>24, :l3memresp_tl=>27, :l3mem
+{:l2l3req_tl=>1, :l2l3req_o=>13, :l2l3resp_tl=>3, :l2l3resp_o=>12, :l3memreq_tl=>63, :l3memreq_o=>24, :l3memresp_tl=>27, :l3mem
+4347
+e = 1.0399761904761904
+e_prime = 1.1274153110519571
+P=0.12221786373903278
+best_energy = 1.0399761904761904
+{:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>55, :l3memr
+best energy 1.0399761904761904
+best_state {:l2l3req_tl=>1, :l2l3req_o=>14, :l2l3resp_tl=>9, :l2l3resp_o=>14, :l3memreq_tl=>66, :l3memreq_o=>8, :l3memresp_tl=>
+andrew@annealer:/mnt/tcs1/GEM5_DRAMSim2/LatencyModel$
