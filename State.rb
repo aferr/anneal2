@@ -60,8 +60,9 @@ class State
       return false if o[p] > @max[p]
       return false if o[p] < @min[p]
     end
-    return false if @params.reject{|p| p.to_s.include? "_o" }.
-      map{ |p| o[p] }.reduce(:lcm) > 20_000
+    # return true if @params.reject{|p| p.to_s.include? "_o"}.nil?
+    # return false if @params.reject{|p| p.to_s.include? "_o" }.
+    #   map{ |p| o[p] }.reduce(:lcm) > 20_000
     return true
   end
 
@@ -110,6 +111,18 @@ end
 
 class MaximizingState < State
 
+  def initialize o={}
+    super ({
+      params: [
+        :l2l3req_o, 
+        :l2l3resp_o,  
+        :l3memreq_o,  
+        :l3memresp_o, 
+        :mem_o,
+      ]
+    }.merge o)
+  end
+
   def energy
       super * -1
   end
@@ -137,6 +150,35 @@ class BalancedHitState < State
 
   def neighbor
     super{ |o| BalancedHitState.new o}
+  end
+end
+
+class MaximizingBalanced < State
+
+  def initialize o={}
+    super ({
+      params: [
+        :l2l3req_o, 
+        :l2l3resp_o,  
+        :l3memreq_o,  
+        :l3memresp_o, 
+        :mem_o,
+      ]
+    }.merge o)
+  end
+
+  def energy
+    miss = super
+    hit = (lat = l3_hit_latencies @o).inject{ |a,l| a+=l }/lat.size.to_f
+    -1 * (0.9 * hit + 0.1 * miss)
+  end
+
+  def shuffle
+    super{ |o| MaximizingBalanced.new o }
+  end
+
+  def neighbor
+    super{ |o| MaximizingBalanced.new o}
   end
 end
 

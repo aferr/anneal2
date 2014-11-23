@@ -1,0 +1,101 @@
+
+L2_miss_opt_fromold:
+
+================================================================================
+                                      19999                                      
+================================================================================
+foo
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>13, :l2l3resp_o=>11, :l3memreq_tl=>60, :l3memreq_o=>33, :l3memresp_tl=>14, :l3memresp_o=>34, :mem_tl=>105, :mem_o=>118}
+{:l2l3req_tl=>1, :l2l3req_o=>8, :l2l3resp_tl=>13, :l2l3resp_o=>11, :l3memreq_tl=>60, :l3memreq_o=>33, :l3memresp_tl=>14, :l3memresp_o=>33, :mem_tl=>105, :mem_o=>118}
+5460
+e = 38.60227272727273
+e_prime = 41.591904761904765
+P=0.14425450005480733
+best_energy = 38.60227272727273
+{:l2l3req_tl=>4, :l2l3req_o=>2, :l2l3resp_tl=>11, :l2l3resp_o=>18, :l3memreq_tl=>66, :l3memreq_o=>6, :l3memresp_tl=>66, :l3memresp_o=>39, :mem_tl=>66, :mem_o=>7}
+best energy 38.60227272727273
+best_state {:l2l3req_tl=>4, :l2l3req_o=>2, :l2l3resp_tl=>11, :l2l3resp_o=>18, :l3memreq_tl=>66, :l3memreq_o=>6, :l3memresp_tl=>66, :l3memresp_o=>39, :mem_tl=>66, :mem_o=>7}
+andrew@annealer:/mnt/tcs1/anneal2$ 
+
+L2_miss_opt:
+================================================================================
+                                      19999                                      
+================================================================================
+foo
+{:l2l3req_tl=>11, :l2l3req_o=>0, :l2l3resp_tl=>21, :l2l3resp_o=>0, :l3memreq_tl=>1, :l3memreq_o=>15, :l3memresp_tl=>60, :l3memresp_o=>87, :mem_tl=>110, :mem_o=>69}
+{:l2l3req_tl=>11, :l2l3req_o=>0, :l2l3resp_tl=>21, :l2l3resp_o=>0, :l3memreq_tl=>1, :l3memreq_o=>16, :l3memresp_tl=>60, :l3memresp_o=>87, :mem_tl=>110, :mem_o=>69}
+4620
+e = 38.06837606837607
+e_prime = 46.033290043290044
+P=0.005349976641762787
+best_energy = 38.06837606837607
+{:l2l3req_tl=>1, :l2l3req_o=>16, :l2l3resp_tl=>9, :l2l3resp_o=>10, :l3memreq_tl=>26, :l3memreq_o=>8, :l3memresp_tl=>9, :l3memresp_o=>61, :mem_tl=>78, :mem_o=>67}
+best energy 38.06837606837607
+best_state {:l2l3req_tl=>1, :l2l3req_o=>16, :l2l3resp_tl=>9, :l2l3resp_o=>10, :l3memreq_tl=>26, :l3memreq_o=>8, :l3memresp_tl=>9, :l3memresp_o=>61, :mem_tl=>78, :mem_o=>67}
+andrew@annealer:/mnt/tcs1/anneal2$ 
+
+L3_miss_opt
+================================================================================
+                                      19999                                      
+================================================================================
+foo
+{:l2l3req_tl=>21, :l2l3req_o=>6, :l2l3resp_tl=>12, :l2l3resp_o=>8, :l3memreq_tl=>6, :l3memreq_o=>42, :l3memresp_tl=>4, :l3memresp_o=>35, :mem_tl=>84, :mem_o=>59}
+{:l2l3req_tl=>21, :l2l3req_o=>6, :l2l3resp_tl=>12, :l2l3resp_o=>8, :l3memreq_tl=>6, :l3memreq_o=>44, :l3memresp_tl=>4, :l3memresp_o=>35, :mem_tl=>84, :mem_o=>59}
+84
+e = 144.78571428571428
+e_prime = 158.75
+P=0.08970768707516869
+best_energy = 144.78571428571428
+{:l2l3req_tl=>7, :l2l3req_o=>13, :l2l3resp_tl=>11, :l2l3resp_o=>4, :l3memreq_tl=>66, :l3memreq_o=>0, :l3memresp_tl=>66, :l3memresp_o=>49, :mem_tl=>66, :mem_o=>13}
+best energy 144.78571428571428
+best_state {:l2l3req_tl=>7, :l2l3req_o=>13, :l2l3resp_tl=>11, :l2l3resp_o=>4, :l3memreq_tl=>66, :l3memreq_o=>0, :l3memresp_tl=>66, :l3memresp_o=>49, :mem_tl=>66, :mem_o=>13}
+andrew@annealer:/mnt/tcs1/anneal2$ 
+
+L3 Miss Max
+================================================================================
+                                      19999                                      
+================================================================================
+foo
+{:l2l3req_o=>124, :l2l3resp_o=>113, :l3memreq_o=>66, :l3memresp_o=>102, :mem_o=>60}
+{:l2l3req_o=>124, :l2l3resp_o=>113, :l3memreq_o=>66, :l3memresp_o=>102, :mem_o=>59}
+66
+e = -368.5
+e_prime = -269.5
+P=0.001210867891906068
+best_energy = -368.5
+{:l2l3req_o=>26, :l2l3resp_o=>121, :l3memreq_o=>95, :l3memresp_o=>69, :mem_o=>95}
+best energy -368.5
+best_state {:l2l3req_o=>26, :l2l3resp_o=>121, :l3memreq_o=>95, :l3memresp_o=>69, :mem_o=>95}
+
+L3 Miss Max from Old
+================================================================================
+                                      19999                                      
+================================================================================
+foo
+{:l2l3req_o=>5, :l2l3resp_o=>17, :l3memreq_o=>62, :l3memresp_o=>62, :mem_o=>32}
+{:l2l3req_o=>5, :l2l3resp_o=>16, :l3memreq_o=>62, :l3memresp_o=>62, :mem_o=>32}
+462
+e = -284.7857142857143
+e_prime = -188.21428571428572
+P=0.0002080874686834818
+best_energy = -284.7857142857143
+{:l2l3req_o=>3, :l2l3resp_o=>11, :l3memreq_o=>97, :l3memresp_o=>74, :mem_o=>97}
+best energy -284.7857142857143
+best_state {:l2l3req_o=>3, :l2l3resp_o=>11, :l3memreq_o=>97, :l3memresp_o=>74, :mem_o=>97}
+
+L2 Miss Max From Old
+================================================================================
+                                      19999                                      
+================================================================================
+foo
+{:l2l3req_o=>6, :l2l3resp_o=>18, :l3memreq_o=>65, :l3memresp_o=>14, :mem_o=>52}
+{:l2l3req_o=>6, :l2l3resp_o=>18, :l3memreq_o=>65, :l3memresp_o=>14, :mem_o=>53}
+132
+e = -53.097727272727276
+e_prime = -50.40227272727273
+P=0.2810842831157328
+best_energy = -53.097727272727276
+{:l2l3req_o=>5, :l2l3resp_o=>16, :l3memreq_o=>121, :l3memresp_o=>93, :mem_o=>121}
+best energy -53.097727272727276
+best_state {:l2l3req_o=>5, :l2l3resp_o=>16, :l3memreq_o=>121, :l3memresp_o=>93, :mem_o=>121}
+
